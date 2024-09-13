@@ -22,7 +22,7 @@ export default function App() {
           />
         ) : (
           <img
-            src="src\image\Handsome_guy.jpg" // Replace with the new image URL
+            src="https://scontent.fbkk29-1.fna.fbcdn.net/v/t39.30808-6/454757450_1599543880609214_4055707094650093916_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE0RJbbG5HsECx-0PG97C5hm5GUAC5WoTqbkZQALlahOrqSLkFYJnAueCoAIgCIS9VmUsbFcG5bvlBVv828yeOc&_nc_ohc=9wFsgiZ1FCIQ7kNvgGXRcRN&_nc_ht=scontent.fbkk29-1.fna&oh=00_AYBDrGTtiuKR2ZaxKQFycFIRKb--YGwhZSDjRxEVLhuTTg&oe=66E9D529" // Replace with the new image URL
             alt="Moo Deng Full"
           />
         )}
